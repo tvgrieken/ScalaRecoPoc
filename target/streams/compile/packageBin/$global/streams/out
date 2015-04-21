@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mPackaging /home/cloudera/Apps/recommendations/target/scala-2.10/recommendations_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Recos$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/Apps/recommendations/target/scala-2.10/classes/Recos$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	Recos$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/Apps/recommendations/target/scala-2.10/classes/Recos$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	Recos$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/Apps/recommendations/target/scala-2.10/classes/Recos$.class[0m
+[0m[[0mdebug[0m] [0m	Recos$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/Apps/recommendations/target/scala-2.10/classes/Recos$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	Recos$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/Apps/recommendations/target/scala-2.10/classes/Recos$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	Recos.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/Apps/recommendations/target/scala-2.10/classes/Recos.class[0m
+[0m[[0mdebug[0m] [0m	Recos$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/Apps/recommendations/target/scala-2.10/classes/Recos$$anonfun$5.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
